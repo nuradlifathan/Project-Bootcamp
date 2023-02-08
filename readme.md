@@ -13,9 +13,7 @@ gudang terpilih dengan alamat user.
 Dari sisi user, tidak akan terlihat bahwa aplikasi ini memiliki lebih dari satu gudang
 penyimpanan. Stok yang terlihat oleh user, adalah total stok dari semua gudang.
 
-## Feel Free to clone it and test it on script below :
-
-## Available Scripts
+## Feel Free to clone it and test it on scripts below :
 
 In the project directory, you can run:
 
