@@ -1,6 +1,17 @@
 # Purwadhika Final Project Repository
-
 This is monorepo contain frontend project using ReactJS and backend project using ExpressJS.
+
+## About This Project
+Multi Storage E-commerce adalah sebuah aplikasi e-commerce yang menerapkan lebih
+dari satu gudang dalam penyimpanan barangnya. Penerapan hal ini bertujuan untuk
+meningkatkan kecepatan pengiriman dan juga mengurangi biaya pengiriman.
+Ketika ada sebuah pesanan baru, maka secara otomatis sistem akan meneruskan pesanan
+pesanan ke lokasi gudang terdekat dari alamat user. Admin yang bertugas pada lokasi
+tersebut, bertanggung jawab untuk memproses pesanan hingga selesai. Biaya pengiriman
+barang yang ditanggung user nantinya akan ditentukan berdasarkan jarak antara lokasi
+gudang terpilih dengan alamat user.
+Dari sisi user, tidak akan terlihat bahwa aplikasi ini memiliki lebih dari satu gudang
+penyimpanan. Stok yang terlihat oleh user, adalah total stok dari semua gudang.
 
 ## Available Scripts
 
